@@ -1,5 +1,5 @@
 <p style:align: center>
-  <img alt="Projeto Museu Nacional" src="./imagens/museunacional.jpeg" width="500px">
+  <img alt="Projeto Museu Nacional" src="./imagens/museunacional.jpeg" width="900px">
 </p>
 
 <br>
